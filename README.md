@@ -113,4 +113,4 @@ This web interface integrates with your existing sign language recognition code 
 - Based on the Unvoiced project for sign language recognition
 - Uses TensorFlow for neural network processing
 - Google Text-to-Speech for audio output
-=======
+
